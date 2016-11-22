@@ -4,7 +4,7 @@
   secondMessage = "tast"
   thirdMessage = "tost"
   fourthMessage = "testosterone"
-  fifthMessage = "testicular cancer"
+  fifthMessage = ""
   sixthMessage = ""
   seventhMessage = ""
   eigthMessage = ""
